@@ -46,7 +46,7 @@ int main() {
 
     glfwWindowHint(GLFW_SAMPLES, 4);
 
-    GLFWwindow* window = glfwCreateWindow(w, h, "Shape IT!", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(w, h, "Simple OpenGL renderer", NULL, NULL);
     if (!window) {
         fprintf(stderr, "ERROR: could not open window with GLFW3\n");
         glfwTerminate();
