@@ -11,3 +11,4 @@ You will need these libraries in minimal versions listed here:
       - GLM (0.9.9)
       
       
+![Simple OpenGL renderer](screen.png)
