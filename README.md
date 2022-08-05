@@ -10,6 +10,6 @@ You will need these libraries in minimal versions listed here:
       - FreeImage (3.18.0)
       - GLM (0.9.9)
       
-
+*Note: Add GLEW statically (preprocessor definition: GLEW_STATIC)...*
 
 ![Simple OpenGL renderer](screen.png)
